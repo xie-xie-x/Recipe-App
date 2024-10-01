@@ -133,27 +133,7 @@ Visit http://localhost:3000/api-docs in your browser.
 ### Usage
 
 - Run `rails server` to run the app.
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Kaung Myat Kyaw**
-
-- Portfolio: [Portfolio](https://rhbarry.me)
-- GitHub: [GitHub](https://github.com/Rhaegar121)
-- Twitter: [Twitter](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
-
-👤 **Anthony Martin**
-
-- GitHub: [GitHub](https://github.com/anthonymr)
-- Twitter:[Twitter](https://twitter.com/Anthony2Martin)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anthony-martin-8820a3117/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -162,14 +142,6 @@ Visit http://localhost:3000/api-docs in your browser.
 - [ ] **[Inventory shopping list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support <a name="support"></a>
 
